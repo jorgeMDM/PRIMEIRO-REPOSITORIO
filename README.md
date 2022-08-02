@@ -1,2 +1,8 @@
 # PRIMEIRO-REPOSITORIO
-CORNO KKKKJ
+
+para copiar o html
+...
+<html>
+  <h1>meu primeiro html</h1>
+</html>
+...
